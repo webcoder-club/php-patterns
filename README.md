@@ -9,13 +9,6 @@
 A topic that can easily make anyone's mind wobble. Here I try to make them stick in to your mind (and maybe mine) by explaining them in the <i>simplest</i> way possible.
 </p>
 
-
-***
-
-<p align="center"><b> Did you like this guide and want more of the similar content? </b><br>We are releasing <a href="http://hugobots.com">Hugobots</a> soon. Make sure to subscribe!</p>
-
-***
-
 🚀 Introduction
 =================
 
@@ -2278,4 +2271,5 @@ $iosBuilder->build();
 
 ## 🚦 Wrap Up Folks
 
-And that about wraps it up. I will continue to improve this, so you might want to watch/star this repository to revisit. Also, I have plans on writing the same about the architectural patterns, stay tuned for it.
+And that about wraps it up. I will continue to improve this, so you might want to watch/star this repository to revisit.
+Also, I have plans on writing the same about the architectural patterns, stay tuned for it.
